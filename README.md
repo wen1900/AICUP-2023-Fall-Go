@@ -2,7 +2,7 @@
 
 ## 環境建置
 ### 作業系統及 CUDA 配置
-* 作業系統為win10
+* 作業系統為 win10
 * CUDA 11.8：https://developer.nvidia.com/cuda-11-8-0-download-archive
 * cuDNN 請選擇支援 CUDA 11.x：https://developer.nvidia.com/rdp/cudnn-archive
 * python 版本：3.9.18
