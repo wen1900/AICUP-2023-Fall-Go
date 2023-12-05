@@ -143,7 +143,7 @@ def go_res():
     outputs = Softmax()(outputs)
     model = Model(inputs, outputs)
     
-    opt = Adam(learning_rate=0.00005)
+    opt = Adam(learning_rate=0.0001)
     model.compile(optimizer=opt,
                 loss='categorical_crossentropy',
                 metrics=['accuracy'])
