@@ -1,4 +1,4 @@
-# AICUP-2023-Fall-Go, TEAM_4260
+# AICUP-2023-Fall-Go-TEAM_4260
 由於訓練資料集與權重檔，檔案過大，完整程式碼請至以下連結下載
 #### 完整程式碼：https://drive.google.com/drive/folders/1gUEoRagQOkBGve7z11GUj6JVdrLurnHy?usp=sharing
 ## 環境建置
